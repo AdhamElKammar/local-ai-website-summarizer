@@ -74,11 +74,9 @@ Python 3.11 or 3.12 is recommended.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/local-ai-website-summarizer.git
+git clone https://github.com/AdhamElKammar/local-ai-website-summarizer.git
 cd local-ai-website-summarizer
 ```
-
-Replace `YOUR_USERNAME` with your GitHub username.
 
 ### 2. Install Ollama
 
