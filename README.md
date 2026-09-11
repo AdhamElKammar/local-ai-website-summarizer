@@ -33,7 +33,7 @@ local-ai-website-summarizer/
 ├── scraper.py
 ├── summarizer.py
 ├── requirements.txt
-├── .gitignore
+├── LICENSE
 └── README.md
 ```
 
